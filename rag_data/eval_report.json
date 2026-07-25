@@ -1,0 +1,329 @@
+{
+  "summary": {
+    "pass": 14,
+    "total": 16,
+    "pass_rate": 0.875,
+    "retrieval_recall": 0.933,
+    "avg_kw_hit": 0.933,
+    "notfound_correct": "0/1"
+  },
+  "results": [
+    {
+      "q": "Какие справки нужны для валютного контроля по контракту на 5 млн рублей?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "fz_173_currency.txt"
+      ],
+      "kw_hits": [
+        "справка",
+        "валютн"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "Для валютного контроля по контракту на 5 млн рублей (что превышает порог в 3 млн рублей) необходимо:\n\n1. **Поставить контракт на учёт** в уполномоченном банке с"
+    },
+    {
+      "q": "Что такое паспорт сделки и в каких случаях он оформляется?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "fz_173_currency.txt",
+        "Список документов для ВЭД.md"
+      ],
+      "kw_hits": [
+        "паспорт сделки",
+        "контракт"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "Паспорт сделки — это документ учётного характера, который ранее (до 1 марта 2018 года) оформлялся резидентами при осуществлении внешнеторговой деятельности и со"
+    },
+    {
+      "q": "Что такое репатриация валюты и кто обязан её обеспечить?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "fz_173_currency.txt"
+      ],
+      "kw_hits": [
+        "репатриа",
+        "валют"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "Репатриация валюты — это обязанность резидентов РФ обеспечить поступление на свои счета в уполномоченных банках иностранной валюты (или валюты РФ), причитающейс"
+    },
+    {
+      "q": "В какие сроки подаётся таможенная декларация?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "fz_173_currency.txt",
+        "fz_289_customs.txt",
+        "tk_eaes.txt"
+      ],
+      "kw_hits": [
+        "срок",
+        "деклар"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "Таможенная декларация подаётся в следующие сроки:\n\n**При ввозе:**\n- Не позднее **4 месяцев со дня регистрации уведомления о прибытии**, то есть до истечения сро"
+    },
+    {
+      "q": "Какие таможенные режимы предусмотрены в ЕАЭС?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "eec_decisions_key.txt",
+        "tk_eaes.txt"
+      ],
+      "kw_hits": [
+        "режим",
+        "ЕАЭС"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "В ЕАЭС предусмотрены следующие **таможенные процедуры (режимы)**, перечисленные в Таможенном кодексе ЕАЭС:\n\n1. Выпуск для внутреннего потребления (импорт)  \n2. "
+    },
+    {
+      "q": "Какие документы нужны для таможенного оформления импорта товаров?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "fz_289_customs.txt",
+        "tk_eaes.txt",
+        "Список документов для ВЭД.md"
+      ],
+      "kw_hits": [
+        "документ",
+        "деклар"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "Для таможенного оформления импорта товаров необходимо представить следующие документы:\n\n**1. Внешнеторговый договор и дополнения к нему**  \n[источник: fz_289_cu"
+    },
+    {
+      "q": "Что такое код ТН ВЭД и из скольких знаков он состоит?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "eec_decisions_key.txt",
+        "tn_ved_structure.txt"
+      ],
+      "kw_hits": [
+        "ТН ВЭД",
+        "знак"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "Код ТН ВЭД — это 10-значный цифровой код, используемый для классификации товаров во внешнеэкономической деятельности в рамках ЕАЭС. Он применяется для целей там"
+    },
+    {
+      "q": "Какой орган принимает решения по таможенному регулированию в ЕАЭС?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "eec_decisions_key.txt",
+        "tk_eaes.txt"
+      ],
+      "kw_hits": [
+        "ЕЭК",
+        "ЕАЭС"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "Органом, принимающим решения по таможенному регулированию в ЕАЭС на наднациональном уровне, является **Евразийская экономическая комиссия (ЕЭК)** [источник: eec"
+    },
+    {
+      "q": "Что означает термин EXW по Инкотермс 2020?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "incoterms_2020.txt",
+        "словарь_МТ.txt"
+      ],
+      "kw_hits": [
+        "EXW",
+        "франко"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "Термин **EXW (Ex Works, «Франко-завод»)** по Инкотермс 2020 означает следующее:\n\n- Продавец несёт **минимальные обязанности**: он лишь предоставляет товар на св"
+    },
+    {
+      "q": "Чем отличается FCA от FOB по Инкотермс 2020?",
+      "ok": false,
+      "retrieval_ok": false,
+      "sources_got": [],
+      "kw_hits": [],
+      "kw_hit": 0.0,
+      "not_found": true,
+      "method": "rerank",
+      "answer_preview": "По имеющейся базе ответа не нашёл. Уточните вопрос или переиндексируйте документы (/ingest)."
+    },
+    {
+      "q": "Что означает DDP в терминах Инкотермс 2020?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "incoterms_2020.txt",
+        "словарь_МТ.txt"
+      ],
+      "kw_hits": [
+        "DDP",
+        "пошлин"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "DDP (Delivered Duty Paid — «Поставка с оплатой пошлин») в Инкотермс 2020 означает следующее:\n\n- Это условие поставки, при котором **продавец несёт максимальные "
+    },
+    {
+      "q": "Как определяется таможенная стоимость товаров?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "eec_decisions_key.txt",
+        "fz_289_customs.txt",
+        "tk_eaes.txt",
+        "Список документов для ВЭД.md"
+      ],
+      "kw_hits": [
+        "стоимост",
+        "таможен"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "Таможенная стоимость товаров определяется по шести методам, установленным Таможенным кодексом ЕАЭС и подтверждённым решениями Евразийской экономической комиссии"
+    },
+    {
+      "q": "Какие сведения должна содержать таможенная декларация?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "fz_289_customs.txt",
+        "tk_eaes.txt"
+      ],
+      "kw_hits": [
+        "сведени",
+        "деклар"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "Таможенная декларация должна содержать следующие сведения:\n\n- **Сведения о декларанте и таможенном представителе**;  \n- **Сведения о товаре**:  \n  - наименовани"
+    },
+    {
+      "q": "Что такое выпуск товаров и в какие сроки он производится?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "fz_289_customs.txt",
+        "tk_eaes.txt"
+      ],
+      "kw_hits": [
+        "выпуск",
+        "срок"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "**Выпуск товаров** — это действие таможенного органа, посредством которого плательщику разрешается распоряжаться товарами в соответствии с заявленной таможенной"
+    },
+    {
+      "q": "Какая ответственность за невыполнение обязанности по репатриации валюты?",
+      "ok": true,
+      "retrieval_ok": true,
+      "sources_got": [
+        "fz_173_currency.txt"
+      ],
+      "kw_hits": [
+        "ответствен",
+        "валют"
+      ],
+      "kw_hit": 1.0,
+      "not_found": false,
+      "method": "rerank",
+      "answer_preview": "За невыполнение обязанности по репатриации валюты предусмотрена следующая ответственность:\n\n- **Административная ответственность** по статье 15.25 КоАП РФ:  \n  "
+    },
+    {
+      "q": "Как приготовить борщ по рецепту Юлии Высоцкой?",
+      "ok": false,
+      "reason": "expect_not_found",
+      "got_not_found": false,
+      "got_empty": false,
+      "answer_preview": "По имеющейся базе ответа не нашёл. Уточните вопрос или переиндексируйте документы (/ingest).  \nНе является юридической консультацией."
+    }
+  ],
+  "stats": {
+    "available": true,
+    "empty": false,
+    "collection_count": 99,
+    "files": [
+      {
+        "name": "словарь_МТ.txt",
+        "chunks": 31
+      },
+      {
+        "name": "tn_ved_structure.txt",
+        "chunks": 6
+      },
+      {
+        "name": "usloviya_postavki_filo_lilo_lifo_fifo.txt",
+        "chunks": 7
+      },
+      {
+        "name": "incoterms_2020.txt",
+        "chunks": 6
+      },
+      {
+        "name": "eec_decisions_key.txt",
+        "chunks": 5
+      },
+      {
+        "name": "fz_289_customs.txt",
+        "chunks": 9
+      },
+      {
+        "name": "tk_eaes.txt",
+        "chunks": 12
+      },
+      {
+        "name": "Список документов для ВЭД.md",
+        "chunks": 11
+      },
+      {
+        "name": "fz_173_currency.txt",
+        "chunks": 12
+      }
+    ],
+    "models": {
+      "embed": "text-embedding-v3",
+      "chat": "qwen3-max",
+      "rerank": "qwen3-rerank"
+    },
+    "bm25": true,
+    "rerank_on": true,
+    "docs_dir": "/Users/irina/Desktop/Домашка/ДЗ_мод5_4/work_bot/rag_data/docs"
+  },
+  "config": {
+    "top_k": 5,
+    "sim_threshold": 0.3,
+    "bm25_topn": 8,
+    "candidate_pool": 20,
+    "rerank_on": true,
+    "rerank_model": "qwen3-rerank"
+  }
+}

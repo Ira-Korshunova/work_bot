@@ -1,0 +1,33 @@
+# Environment variables
+.env
+
+# Database
+*.db
+*.db-journal
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+rag_data/faiss_index.bin
+rag_data/metadata.json
+rag_data/manifest.json
+
+# Temporary files
+*.pid
+*.tmp
