@@ -1,4 +1,4 @@
-# DiV_executive / Work Bot
+# Work Bot — ВЭД-ассистент на Telegram (OCR, vision, голос, RAG)
 
 Telegram-бот-ассистент по внешнеэкономической деятельности (ВЭД). Обрабатывает документы, фото товаров, голосовые сообщения и отвечает на вопросы по нормативной базе ВЭД через RAG.
 
@@ -52,7 +52,7 @@ Telegram-бот-ассистент по внешнеэкономической �
 ## Структура проекта
 
 ```
-ДЗмод5_1/
+work_bot/
 ├── work_bot.py              # Основной Telegram-бот, обработчики сообщений
 ├── rag_engine.py            # RAG-движок: индексация, поиск, генерация ответов
 ├── rag_data/
@@ -72,13 +72,14 @@ Telegram-бот-ассистент по внешнеэкономической �
 ### 1. Клонирование / переход в папку
 
 ```bash
-cd "/Users/irina/Documents/Домашка/ДЗмод5_1"
+git clone https://github.com/ira-korshunova/work_bot.git
+cd work_bot
 ```
 
 ### 2. Установка зависимостей
 
 ```bash
-pip install python-telegram-bot python-dotenv requests Pillow pytesseract opencv-python-headless openai faiss-cpu rank_bm25 pypdf
+pip install -r requirements.txt
 ```
 
 ### 3. Установка Tesseract (macOS)

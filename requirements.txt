@@ -1,0 +1,13 @@
+# Work Bot — зависимости. Python 3.10+
+# Для точных версий под ваше окружение: pip freeze > requirements.txt
+python-telegram-bot>=20.0
+python-dotenv>=1.0
+requests>=2.31
+Pillow>=10.0
+pytesseract>=0.3.10
+opencv-python-headless>=4.8
+openai>=1.0
+faiss-cpu>=1.7
+rank_bm25>=0.2
+pypdf>=4.0
+PyPDF2>=3.0
