@@ -1,1 +1,176 @@
-IyBXb3JrIEJvdCDigJQg0JLQrdCULdCw0YHRgdC40YHRgtC10L3RgiDQvdCwIFRlbGVncmFtIChPQ1IsIHZpc2lvbiwg0LPQvtC70L7RgSwgUkFHKQoKVGVsZWdyYW0t0LHQvtGCLdCw0YHRgdC40YHRgtC10L3RgiDQv9C+INCy0L3QtdGI0L3QtdGN0LrQvtC90L7QvNC40YfQtdGB0LrQvtC5INC00LXRj9GC0LXQu9GM0L3QvtGB0YLQuCAo0JLQrdCUKS4g0J7QsdGA0LDQsdCw0YLRi9Cy0LDQtdGCINC00L7QutGD0LzQtdC90YLRiywg0YTQvtGC0L4g0YLQvtCy0LDRgNC+0LIsINCz0L7Qu9C+0YHQvtCy0YvQtSDRgdC+0L7QsdGJ0LXQvdC40Y8g0Lgg0L7RgtCy0LXRh9Cw0LXRgiDQvdCwINCy0L7Qv9GA0L7RgdGLINC/0L4g0L3QvtGA0LzQsNGC0LjQstC90L7QuSDQsdCw0LfQtSDQktCt0JQg0YfQtdGA0LXQtyBSQUcuCgotLS0KCiMjINCS0L7Qt9C80L7QttC90L7RgdGC0LgKCnwg0KDQtdC20LjQvCB8INCe0L/QuNGB0LDQvdC40LUgfAp8LS0tfC0tLXwKfCDwn5OEICoq0JTQvtC60YPQvNC10L3RgioqIHwg0KDQsNGB0L/QvtC30L3QsNGR0YIg0YHQutCw0L3Riy/RhNC+0YLQviDQtNC+0LrRg9C80LXQvdGC0L7QsiAo0LrQvtC90L7RgdCw0LzQtdC90YLRiywg0LjQvdCy0L7QudGB0YssINC/0LDQutC40L3Qsy3Qu9C40YHRgtGLKSDRh9C10YDQtdC3IFRlc3NlcmFjdCBPQ1IuIHwKfCDwn5O3ICoq0KLQvtCy0LDRgCoqIHwg0JDQvdCw0LvQuNC30LjRgNGD0LXRgiDRhNC+0YLQviDRgtC+0LLQsNGA0LAg0YEg0L/QvtC80L7RidGM0Y4g0LzRg9C70YzRgtC40LzQvtC00LDQu9GM0L3QvtC5INC80L7QtNC10LvQuCBRd2VuLVZMLiB8Cnwg8J+OpCAqKtCT0L7Qu9C+0YEqKiB8INCg0LDRgdC/0L7Qt9C90LDRkdGCINCz0L7Qu9C+0YEgKFlhbmRleCBTcGVlY2hLaXQgU1RUKSDQuCDRgdC40L3RgtC10LfQuNGA0YPQtdGCINC+0YLQstC10YLRiyAoVFRTKS4gfAp8IPCfk5ogKirQkdCw0LfQsCDQktCt0JQqKiB8INCe0YLQstC10YfQsNC10YIg0L3QsCDQstC+0L/RgNC+0YHRiyDQv9C+INC90L7RgNC80LDRgtC40LLQvdC+0Lkg0LHQsNC30LUg0JLQrdCUINGBINGG0LjRgtCw0YLQsNC80Lgg0LjQtyDQuNGB0YLQvtGH0L3QuNC60L7QsiAoUkFHKS4gfAp8IOKEue+4jyAqKtCf0L7QvNC+0YnRjCoqIHwg0J/QvtC60LDQt9GL0LLQsNC10YIg0YHQv9GA0LDQstC60YMg0L/QviDQutC+0LzQsNC90LTQsNC8INC4INGA0LXQttC40LzQsNC8LiB8CgotLS0KCiMjINCh0YLQtdC6INC4INC40L3RgdGC0YDRg9C80LXQvdGC0YsKCiMjIyDQr9C30YvQuiDQuCDRhNGA0LXQudC80LLQvtGA0LrQuAotICoqUHl0aG9uIDMuMTArKioKLSAqKnB5dGhvbi10ZWxlZ3JhbS1ib3QqKiDigJQg0LLQt9Cw0LjQvNC+0LTQtdC50YHRgtCy0LjQtSDRgSBUZWxlZ3JhbSBCb3QgQVBJCi0gKiphc3luY2lvKiog4oCUINCw0YHQuNC90YXRgNC+0L3QvdCw0Y8g0L7QsdGA0LDQsdC+0YLQutCwINGB0L7QvtCx0YnQtdC90LjQuQoKIyMjINCl0YDQsNC90LXQvdC40LUg0YHQvtGB0YLQvtGP0L3QuNGPCi0gKipTUUxpdGUqKiAoYHdvcmtfYm90LmRiYCkg4oCUINC70L7Qs9C40YDQvtCy0LDQvdC40LUg0YHQtdGB0YHQuNC5INC4INCy0LfQsNC40LzQvtC00LXQudGB0YLQstC40Lkg0L/QvtC70YzQt9C+0LLQsNGC0LXQu9C10LkKLSAqKmluLW1lbW9yeSBgdXNlcl9zdGF0ZXNgKiog4oCUINGC0LXQutGD0YnQuNC5INGA0LXQttC40Lwg0L/QvtC70YzQt9C+0LLQsNGC0LXQu9GPINC4INC40YHRgtC+0YDQuNGPINC00LjQsNC70L7Qs9CwINCyINGA0LXQttC40LzQtSDCq9CR0LDQt9CwINCS0K3QlMK7CgojIyMgUkFHLdCx0LDQt9CwINC30L3QsNC90LjQuSAoYHJhZ19lbmdpbmUucHlgKQotICoqRkFJU1MqKiDigJQg0LLQtdC60YLQvtGA0L3Ri9C5INC40L3QtNC10LrRgSDQtNC70Y8g0YHQtdC80LDQvdGC0LjRh9C10YHQutC+0LPQviDQv9C+0LjRgdC60LAgKGNvc2luZSBzaW1pbGFyaXR5KQotICoqcmFua19ibTI1IChCTTI1T2thcGkpKiog4oCUINC60LvRjtGH0LXQstC+0LkgKNC70LXQutGB0LjRh9C10YHQutC40LkpINC/0L7QuNGB0LoKLSAqKlJSRiAoUmVjaXByb2NhbCBSYW5rIEZ1c2lvbikqKiDigJQg0L7QsdGK0LXQtNC40L3QtdC90LjQtSDRgNC10LfRg9C70YzRgtCw0YLQvtCyIGRlbnNlICsgc3BhcnNlINC/0L7QuNGB0LrQsAotICoqRGFzaFNjb3BlIC8gT3BlbkFJLWNvbXBhdGlibGUgQVBJKio6CiAgLSBgdGV4dC1lbWJlZGRpbmctdjNgIOKAlCDRjdC80LHQtdC00LTQuNC90LPQuCDRh9Cw0L3QutC+0LIKICAtIGBxd2VuLXBsdXNgIOKAlCDQs9C10L3QtdGA0LDRhtC40Y8g0L7RgtCy0LXRgtCwINC/0L4g0LrQvtC90YLQtdC60YHRgtGDCiAgLSBgcXdlbjMtcmVyYW5rYCAo0L7Qv9GG0LjQvtC90LDQu9GM0L3Qvikg4oCUINGA0LXRgNCw0L3QutC40L3QsyDQutCw0L3QtNC40LTQsNGC0L7QsgoKIyMjIE9DUiDQuCDQtNC+0LrRg9C80LXQvdGC0YsKLSAqKlRlc3NlcmFjdCBPQ1IqKiDigJQg0YDQsNGB0L/QvtC30L3QsNCy0LDQvdC40LUg0YLQtdC60YHRgtCwINGBINC40LfQvtCx0YDQsNC20LXQvdC40LkKLSAqKlBpbGxvdyAvIE9wZW5DVioqIOKAlCDQv9GA0LXQtNC+0LHRgNCw0LHQvtGC0LrQsCDQuNC30L7QsdGA0LDQttC10L3QuNC5Ci0gKipweXBkZioqIOKAlCDRh9GC0LXQvdC40LUgUERGLdC00L7QutGD0LzQtdC90YLQvtCyINC00LvRjyBSQUcKCiMjIyDQk9C+0LvQvtGBCi0gKipZYW5kZXggU3BlZWNoS2l0Kiog4oCUINGA0LDRgdC/0L7Qt9C90LDQstCw0L3QuNC1INGA0LXRh9C4IChTVFQpINC4INGB0LjQvdGC0LXQtyAoVFRTKQoKIyMjINCe0LrRgNGD0LbQtdC90LjQtQotICoqcHl0aG9uLWRvdGVudioqIOKAlCDQt9Cw0LPRgNGD0LfQutCwINC60LvRjtGH0LXQuSDQuCDQvdCw0YHRgtGA0L7QtdC6INC40LcgYC5lbnZgCgotLS0KCiMjINCh0YLRgNGD0LrRgtGD0YDQsCDQv9GA0L7QtdC60YLQsAoKYGBgCndvcmtfYm90LwrilJzilIDilIAgd29ya19ib3QucHkgICAgICAgICAgICAgICMg0J7RgdC90L7QstC90L7QuSBUZWxlZ3JhbS3QsdC+0YIsINC+0LHRgNCw0LHQvtGC0YfQuNC60Lgg0YHQvtC+0LHRidC10L3QuNC5CuKUnOKUgOKUgCByYWdfZW5naW5lLnB5ICAgICAgICAgICAgIyBSQUct0LTQstC40LbQvtC6OiDQuNC90LTQtdC60YHQsNGG0LjRjywg0L/QvtC40YHQuiwg0LPQtdC90LXRgNCw0YbQuNGPINC+0YLQstC10YLQvtCyCuKUnOKUgOKUgCByYWdfZGF0YS8K4pSCICAg4pSc4pSA4pSAIGRvY3MvICAgICAgICAgICAgICAgICMg0JjRgdGF0L7QtNC90YvQtSDQtNC+0LrRg9C80LXQvdGC0Ysg0LHQsNC30Ysg0LfQvdCw0L3QuNC5ICgudHh0LCAubWQsIC5wZGYpCuKUgiAgIOKUnOKUgOKUgCBmYWlzc19pbmRleC5iaW4gICAgICAjINCS0LXQutGC0L7RgNC90YvQuSDQuNC90LTQtdC60YEK4pSCICAg4pSc4pSA4pSAIG1ldGFkYXRhLmpzb24gICAgICAgICMg0JzQtdGC0LDQtNCw0L3QvdGL0LUg0YfQsNC90LrQvtCyCuKUgiAgIOKUlOKUgOKUgCBtYW5pZmVzdC5qc29uICAgICAgICAjINCa0L7QvdGC0YDQvtC70YzQvdGL0LUg0YHRg9C80LzRiyDRhNCw0LnQu9C+0LIK4pSc4pSA4pSAIHdvcmtfYm90LmRiICAgICAgICAgICAgICAjINCR0LDQt9CwIFNRTGl0ZSDRgSDQu9C+0LPQsNC80LgK4pSc4pSA4pSAIC5lbnYgICAgICAgICAgICAgICAgICAgICAjINCf0LXRgNC10LzQtdC90L3Ri9C1INC+0LrRgNGD0LbQtdC90LjRjyAo0LrQu9GO0YfQuCBBUEkpCuKUlOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICAgICAgIyDQrdGC0L7RgiDRhNCw0LnQuwpgYGAKCi0tLQoKIyMg0KPRgdGC0LDQvdC+0LLQutCwINC4INC30LDQv9GD0YHQugoKIyMjIDEuINCa0LvQvtC90LjRgNC+0LLQsNC90LjQtSAvINC/0LXRgNC10YXQvtC0INCyINC/0LDQv9C60YMKCmBgYGJhc2gKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9pcmEta29yc2h1bm92YS93b3JrX2JvdC5naXQKY2Qgd29ya19ib3QKYGBgCgojIyMgMi4g0KPRgdGC0LDQvdC+0LLQutCwINC30LDQstC40YHQuNC80L7RgdGC0LXQuQoKYGBgYmFzaApwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CmBgYAoKIyMjIDMuINCj0YHRgtCw0L3QvtCy0LrQsCBUZXNzZXJhY3QgKG1hY09TKQoKYGBgYmFzaApicmV3IGluc3RhbGwgdGVzc2VyYWN0CmBgYAoKIyMjIDQuINCd0LDRgdGC0YDQvtC50LrQsCBgLmVudmAKCtCh0L7Qt9C00LDQuSDRhNCw0LnQuyBgLmVudmAg0LIg0LrQvtGA0L3QtSDQv9GA0L7QtdC60YLQsDoKCmBgYGVudgpXT1JLX0JPVF9UT0tFTj15b3VyX3RlbGVncmFtX2JvdF90b2tlbgpZQU5ERVhfQVBJX0tFWT15b3VyX3lhbmRleF9zcGVlY2hraXRfa2V5CkFQSV9LRVk9eW91cl9kYXNoc2NvcGVfb3Jfb3BlbnJvdXRlcl9rZXkKQkFTRV9VUkw9aHR0cHM6Ly9kYXNoc2NvcGUtaW50bC5hbGl5dW5jcy5jb20vY29tcGF0aWJsZS1tb2RlL3YxCmBgYAoKIyMjIDUuINCX0LDQv9GD0YHQuiDQsdC+0YLQsAoKYGBgYmFzaApweXRob24zIHdvcmtfYm90LnB5CmBgYAoKLS0tCgojIyDQoNCw0LHQvtGC0LAg0YEgUkFHLdCx0LDQt9C+0Lkg0JLQrdCUCgojIyMg0JTQvtCx0LDQstC70LXQvdC40LUg0LTQvtC60YPQvNC10L3RgtC+0LIKCjEuINCf0L7Qu9C+0LbQuCDRgtC10LrRgdGC0L7QstGL0LUg0YTQsNC50LvRiyAoYC50eHRgLCBgLm1kYCkg0LjQu9C4IFBERiDQsiDQv9Cw0L/QutGDIGByYWdfZGF0YS9kb2NzL2AuCjIuINCX0LDQv9GD0YHRgtC4INC40L3QtNC10LrRgdCw0YbQuNGOINC+0LTQvdC40Lwg0LjQtyDRgdC/0L7RgdC+0LHQvtCyOgogICAtINCSINCx0L7RgtC1INC90LDQttC80Lgg0LrQvdC+0L/QutGDICoqwqvQmNC90LTQtdC60YHQuNGA0L7QstCw0YLRjCDQsdCw0LfRg8K7Kiog0LIg0YDQtdC20LjQvNC1IMKr0JHQsNC30LAg0JLQrdCUwrsKICAgLSDQmNC70Lgg0L7RgtC/0YDQsNCy0Ywg0LrQvtC80LDQvdC00YMgYC9pbmdlc3RgCjMuINCR0L7RgiDQv9C10YDQtdGB0L7Qt9C00LDRgdGCINCy0LXQutGC0L7RgNC90L7QtSDRhdGA0LDQvdC40LvQuNGJ0LUg0Lgg0L3QsNGH0L3RkdGCINC40YHQv9C+0LvRjNC30L7QstCw0YLRjCDQvdC+0LLRi9C1INC40YHRgtC+0YfQvdC40LrQuC4KCiMjIyDQmNGB0YLQvtGH0L3QuNC60Lgg0L/QviDRg9C80L7Qu9GH0LDQvdC40Y4KCtCSINCx0LDQt9C1INC40YHQv9C+0LvRjNC30YPRjtGC0YHRjyDRgdC/0YDQsNCy0L7Rh9C90LjQutC4INC4INC90L7RgNC80LDRgtC40LLQvdGL0LUg0LTQvtC60YPQvNC10L3RgtGLINC/0L4g0YLQtdC80LDQvDoKLSDQotCw0LzQvtC20LXQvdC90L7QtSDQvtGE0L7RgNC80LvQtdC90LjQtQotINCS0LDQu9GO0YLQvdGL0Lkg0LrQvtC90YLRgNC+0LvRjAotINCY0L3QutC+0YLQtdGA0LzRgSAyMDIwCi0g0KLQnSDQktCt0JQgLyDQldCQ0K3QoQotINCU0L7QutGD0LzQtdC90YLRiyDQtNC70Y8g0LzQtdC20LTRg9C90LDRgNC+0LTQvdGL0YUg0YHQtNC10LvQvtC6CgojIyMg0J/RgNC+0LLQtdGA0LrQsCDRgdGC0LDRgtGD0YHQsAoK0JrQvtC80LDQvdC00LAgYC9zdGF0c2Ag0LjQu9C4INC60L3QvtC/0LrQsCAqKsKr0KHRgtCw0YLRg9GBINCx0LDQt9GLwrsqKiDQv9C+0LrQsNC20LXRgiDQutC+0LvQuNGH0LXRgdGC0LLQviDRhNCw0LnQu9C+0LIg0Lgg0YfQsNC90LrQvtCyLgoKLS0tCgojIyDQmtC+0L3RgtC10LrRgdGCINC00LjQsNC70L7Qs9CwCgrQkiDRgNC10LbQuNC80LUgKirCq9CR0LDQt9CwINCS0K3QlMK7Kiog0LHQvtGCINC/0L7QvNC90LjRgiDQv9C+0YHQu9C10LTQvdC40LUg0YHQvtC+0LHRidC10L3QuNGPINCyINGA0LDQvNC60LDRhSDRgdC10YHRgdC40LguINCt0YLQviDQv9C+0LfQstC+0LvRj9C10YIg0LfQsNC00LDQstCw0YLRjCDRg9GC0L7Rh9C90Y/RjtGJ0LjQtSDQstC+0L/RgNC+0YHRiywg0L3QsNC/0YDQuNC80LXRgDoKCj4g0J/QvtC70YzQt9C+0LLQsNGC0LXQu9GMOiAq0JrQsNC60LjQtSDQtNC+0LrRg9C80LXQvdGC0Ysg0L3Rg9C20L3RiyDQtNC70Y8g0JLQrdCUPyogIAo+INCR0L7RgjogKlvQvtGC0LLQtdGCINGB0L4g0YHQv9C40YHQutC+0Lwg0LTQvtC60YPQvNC10L3RgtC+0LJdKiAgCj4g0J/QvtC70YzQt9C+0LLQsNGC0LXQu9GMOiAq0JAg0LTQu9GPINCy0LDQu9GO0YLQvdC+0LPQviDQutC+0L3RgtGA0L7Qu9GPPyogIAo+INCR0L7RgjogKlvQv9C+0L3QuNC80LDQtdGCLCDRh9GC0L4g0YDQtdGH0Ywg0L4g0LTQvtC60YPQvNC10L3RgtCw0YUg0LTQu9GPINCS0K3QlCwg0Lgg0YPRgtC+0YfQvdGP0LXRgiDQvtGC0LLQtdGCXSoKCtCY0YHRgtC+0YDQuNGPINGF0YDQsNC90LjRgtGB0Y8g0LIg0L7Qv9C10YDQsNGC0LjQstC90L7QuSDQv9Cw0LzRj9GC0LggKGB1c2VyX3N0YXRlc2ApINC4INGB0LHRgNCw0YHRi9Cy0LDQtdGC0YHRjyDQv9GA0Lgg0LLRi9GF0L7QtNC1INC40Lcg0YDQtdC20LjQvNCwINC40LvQuCDQv9C10YDQtdC30LDQv9GD0YHQutC1INCx0L7RgtCwLgoKLS0tCgojIyDQmtC+0LzQsNC90LTRiwoKfCDQmtC+0LzQsNC90LTQsCB8INCe0L/QuNGB0LDQvdC40LUgfAp8LS0tfC0tLXwKfCBgL3N0YXJ0YCB8INCf0YDQuNCy0LXRgtGB0YLQstC40LUg0Lgg0LLRi9Cx0L7RgCDRgNC10LbQuNC80LAgfAp8IGAvaGVscGAgfCDQodC/0YDQsNCy0LrQsCDQv9C+INGA0LXQttC40LzQsNC8IHwKfCBgL2FzayA80LLQvtC/0YDQvtGBPmAgfCDQl9Cw0LTQsNGC0Ywg0LLQvtC/0YDQvtGBINC/0L4g0LHQsNC30LUg0JLQrdCUINCx0LXQtyDQv9C10YDQtdC60LvRjtGH0LXQvdC40Y8g0YDQtdC20LjQvNCwIHwKfCBgL2luZ2VzdGAgfCDQn9C10YDQtdC40L3QtNC10LrRgdC40YDQvtCy0LDRgtGMINCx0LDQt9GDINC30L3QsNC90LjQuSB8CnwgYC9zdGF0c2AgfCDQodGC0LDRgtC40YHRgtC40LrQsCDQsdCw0LfRiyDQt9C90LDQvdC40LkgfAoKLS0tCgojIyDQntGB0L7QsdC10L3QvdC+0YHRgtC4INCz0LXQvdC10YDQsNGG0LjQuCDQvtGC0LLQtdGC0L7QsgoKLSDQntGC0LLQtdGC0Ysg0YTQvtGA0LzQuNGA0YPRjtGC0YHRjyAqKtGC0L7Qu9GM0LrQviDQvdCwINC+0YHQvdC+0LLQtSDQt9Cw0LPRgNGD0LbQtdC90L3QvtC5INCx0LDQt9GLINC30L3QsNC90LjQuSoqLgotINCa0LDQttC00YvQuSDQvtGC0LLQtdGCINGB0L7QtNC10YDQttC40YIg0YHRgdGL0LvQutC4INC90LAg0LjRgdGC0L7Rh9C90LjQutC4IGBb0LjRgdGC0L7Rh9C90LjQujogPNGE0LDQudC7PiwgPNC30LDQs9C+0LvQvtCy0L7Quj5dYCwg0LrQvtCz0LTQsCDQuNC90YTQvtGA0LzQsNGG0LjRjyDQvdCw0LnQtNC10L3QsC4KLSDQldGB0LvQuCDQvtGC0LLQtdGC0LAg0LIg0LHQsNC30LUg0L3QtdGCLCDQsdC+0YIg0YHQvtC+0LHRidCw0LXRgjogIAogICrCq9Cf0L4g0LjQvNC10Y7RidC10LnRgdGPINCx0LDQt9C1INC+0YLQstC10YLQsCDQvdC1INC90LDRiNGR0LsuINCj0YLQvtGH0L3QuNGC0LUg0LLQvtC/0YDQvtGBINC40LvQuCDQv9C10YDQtdC40L3QtNC10LrRgdC40YDRg9C50YLQtSDQtNC+0LrRg9C80LXQvdGC0YsgKC9pbmdlc3QpLsK7KgotINCSINC60L7QvdGG0LUg0LrQsNC20LTQvtCz0L4g0L7RgtCy0LXRgtCwINC00L7QsdCw0LLQu9GP0LXRgtGB0Y8g0LTQuNGB0LrQu9C10LnQvNC10YA6ICrCq9Cd0LUg0Y/QstC70Y/QtdGC0YHRjyDRjtGA0LjQtNC40YfQtdGB0LrQvtC5INC60L7QvdGB0YPQu9GM0YLQsNGG0LjQtdC5LsK7KgoKLS0tCgojIyDQodC60YDQuNC90YjQvtGCCgrQlNC40LDQu9C+0LMg0YEg0LHQvtGC0L7QvDog0L7QsdGA0LDQsdC+0YLQutCwINC00L7QutGD0LzQtdC90YLQvtCyINC4INCy0L7Qv9GA0L7RgSDQv9C+INCx0LDQt9C1INCS0K3QlCDRgSDRhtC40YLQsNGC0LDQvNC4INC40Lcg0LjRgdGC0L7Rh9C90LjQutC+0LI6Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIGFsdD0i0JTQuNCw0LvQvtCzINGBINCx0L7RgtC+0LwiIHNyYz0ic2NyZWVucy9kaWFsb2dfaW1wb3J0X2RvY3NfY3JvcHBlZC53ZWJwIiB3aWR0aD0iMzIwIj4KPC9wPgo=
+# Work Bot — ВЭД-ассистент на Telegram (OCR, vision, голос, RAG)
+
+Telegram-бот-ассистент по внешнеэкономической деятельности (ВЭД). Обрабатывает документы, фото товаров, голосовые сообщения и отвечает на вопросы по нормативной базе ВЭД через RAG.
+
+---
+
+## Возможности
+
+| Режим | Описание |
+|---|---|
+| 📄 **Документ** | Распознаёт сканы/фото документов (коносаменты, инвойсы, пакинг-листы) через Tesseract OCR. |
+| 📷 **Товар** | Анализирует фото товара с помощью мультимодальной модели Qwen-VL. |
+| 🎤 **Голос** | Распознаёт голос (Yandex SpeechKit STT) и синтезирует ответы (TTS). |
+| 📚 **База ВЭД** | Отвечает на вопросы по нормативной базе ВЭД с цитатами из источников (RAG). |
+| ℹ️ **Помощь** | Показывает справку по командам и режимам. |
+
+---
+
+## Стек и инструменты
+
+### Язык и фреймворки
+- **Python 3.10+**
+- **python-telegram-bot** — взаимодействие с Telegram Bot API
+- **asyncio** — асинхронная обработка сообщений
+
+### Хранение состояния
+- **SQLite** (`work_bot.db`) — логирование сессий и взаимодействий пользователей
+- **in-memory `user_states`** — текущий режим пользователя и история диалога в режиме «База ВЭД»
+
+### RAG-база знаний (`rag_engine.py`)
+- **FAISS** — векторный индекс для семантического поиска (cosine similarity)
+- **rank_bm25 (BM25Okapi)** — ключевой (лексический) поиск
+- **RRF (Reciprocal Rank Fusion)** — объединение результатов dense + sparse поиска
+- **DashScope / OpenAI-compatible API**:
+  - `text-embedding-v3` — эмбеддинги чанков
+  - `qwen-plus` — генерация ответа по контексту
+  - `qwen3-rerank` (опционально) — реранкинг кандидатов
+
+### OCR и документы
+- **Tesseract OCR** — распознавание текста с изображений
+- **Pillow / OpenCV** — предобработка изображений
+- **pypdf** — чтение PDF-документов для RAG
+
+### Голос
+- **Yandex SpeechKit** — распознавание речи (STT) и синтез (TTS)
+
+### Окружение
+- **python-dotenv** — загрузка ключей и настроек из `.env`
+
+---
+
+## Структура проекта
+
+```
+work_bot/
+├── work_bot.py              # Основной Telegram-бот, обработчики сообщений
+├── rag_engine.py            # RAG-движок: индексация, поиск, генерация ответов
+├── rag_data/
+│   ├── docs/                # Исходные документы базы знаний (.txt, .md, .pdf)
+│   ├── faiss_index.bin      # Векторный индекс
+│   ├── metadata.json        # Метаданные чанков
+│   └── manifest.json        # Контрольные суммы файлов
+├── work_bot.db              # База SQLite с логами
+├── .env                     # Переменные окружения (ключи API)
+└── README.md                # Этот файл
+```
+
+---
+
+## Установка и запуск
+
+### 1. Клонирование / переход в папку
+
+```bash
+git clone https://github.com/ira-korshunova/work_bot.git
+cd work_bot
+```
+
+### 2. Установка зависимостей
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Установка Tesseract (macOS)
+
+```bash
+brew install tesseract
+```
+
+### 4. Настройка `.env`
+
+Создай файл `.env` в корне проекта:
+
+```env
+WORK_BOT_TOKEN=your_telegram_bot_token
+YANDEX_API_KEY=your_yandex_speechkit_key
+API_KEY=your_dashscope_or_openrouter_key
+BASE_URL=https://dashscope-intl.aliyuncs.com/compatible-mode/v1
+```
+
+### 5. Запуск бота
+
+```bash
+python3 work_bot.py
+```
+
+---
+
+## Работа с RAG-базой ВЭД
+
+### Добавление документов
+
+1. Положи текстовые файлы (`.txt`, `.md`) или PDF в папку `rag_data/docs/`.
+2. Запусти индексацию одним из способов:
+   - В боте нажми кнопку **«Индексировать базу»** в режиме «База ВЭД»
+   - Или отправь команду `/ingest`
+3. Бот пересоздаст векторное хранилище и начнёт использовать новые источники.
+
+### Источники по умолчанию
+
+В базе используются справочники и нормативные документы по темам:
+- Таможенное оформление
+- Валютный контроль
+- Инкотермс 2020
+- ТН ВЭД / ЕАЭС
+- Документы для международных сделок
+
+### Проверка статуса
+
+Команда `/stats` или кнопка **«Статус базы»** покажет количество файлов и чанков.
+
+---
+
+## Контекст диалога
+
+В режиме **«База ВЭД»** бот помнит последние сообщения в рамках сессии. Это позволяет задавать уточняющие вопросы, например:
+
+> Пользователь: *Какие документы нужны для ВЭД?*  
+> Бот: *[ответ со списком документов]*  
+> Пользователь: *А для валютного контроля?*  
+> Бот: *[понимает, что речь о документах для ВЭД, и уточняет ответ]*
+
+История хранится в оперативной памяти (`user_states`) и сбрасывается при выходе из режима или перезапуске бота.
+
+---
+
+## Команды
+
+| Команда | Описание |
+|---|---|
+| `/start` | Приветствие и выбор режима |
+| `/help` | Справка по режимам |
+| `/ask <вопрос>` | Задать вопрос по базе ВЭД без переключения режима |
+| `/ingest` | Переиндексировать базу знаний |
+| `/stats` | Статистика базы знаний |
+
+---
+
+## Особенности генерации ответов
+
+- Ответы формируются **только на основе загруженной базы знаний**.
+- Каждый ответ содержит ссылки на источники `[источник: <файл>, <заголовок>]`, когда информация найдена.
+- Если ответа в базе нет, бот сообщает:  
+  *«По имеющейся базе ответа не нашёл. Уточните вопрос или переиндексируйте документы (/ingest).»*
+- В конце каждого ответа добавляется дисклеймер: *«Не является юридической консультацией.»*
+
+---
+
+## Скриншот
+
+Диалог с ботом: обработка документов и вопрос по базе ВЭД с цитатами из источников:
+
+<p align="center">
+  <img alt="Диалог с ботом" src="screens/dialog_import_docs_cropped.webp" width="320">
+</p>
