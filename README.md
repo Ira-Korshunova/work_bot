@@ -97,6 +97,13 @@ WORK_BOT_TOKEN=your_telegram_bot_token
 YANDEX_API_KEY=your_yandex_speechkit_key
 API_KEY=your_dashscope_or_openrouter_key
 BASE_URL=https://dashscope-intl.aliyuncs.com/compatible-mode/v1
+
+# Пути к агентам (папки с document_extractor / vision-агентом) — опционально
+DOC_AGENT_PATH=/path/to/doc_agent
+VISION_AGENT_PATH=/path/to/vision_agent
+# Путь к бинарникам Tesseract + Poppler — опционально
+CONDA_BIN=/path/to/miniconda3/bin
+TESSDATA_PREFIX=/path/to/miniconda3/share/tessdata
 ```
 
 ### 5. Запуск бота

@@ -48,22 +48,26 @@ YANDEX_API_KEY = os.getenv("YANDEX_API_KEY", "").strip()
 OPENROUTER_API_KEY = os.getenv("API_KEY", "").strip() or os.getenv("OPENROUTER_API_KEY", "").strip()
 DASHSCOPE_BASE_URL = os.getenv("BASE_URL", "https://dashscope-intl.aliyuncs.com/compatible-mode/v1")
 
-# Пути к существующим агентам
-DOC_AGENT_PATH = "/Users/irina/Desktop/Домашка/ДЗмод4_3"
-VISION_AGENT_PATH = "/Users/irina/Documents/Домашка/ДЗмод5_1/copy_ДЗмод4_3_vision"
+# Пути к существующим агентам (задаются через переменные окружения)
+DOC_AGENT_PATH = os.getenv("DOC_AGENT_PATH", "").strip()
+VISION_AGENT_PATH = os.getenv("VISION_AGENT_PATH", "").strip()
 
-sys.path.insert(0, DOC_AGENT_PATH)
-sys.path.insert(0, VISION_AGENT_PATH)
+if DOC_AGENT_PATH and os.path.isdir(DOC_AGENT_PATH):
+    sys.path.insert(0, DOC_AGENT_PATH)
+if VISION_AGENT_PATH and os.path.isdir(VISION_AGENT_PATH):
+    sys.path.insert(0, VISION_AGENT_PATH)
 # Свою директорию — в начало path, чтобы import rag_engine шёл из ДЗмод5_1
 # (а не из copy_ДЗмод4_3_vision, где лежит устаревшая копия). Vision/Doc-агенты
 # всё равно разрешатся через вставки выше.
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-# ── Пути к бинарникам из miniconda3 (Tesseract + Poppler) ──
-CONDA_BIN = "/Users/irina/miniconda3/bin"
-if os.path.isdir(CONDA_BIN):
+# ── Пути к бинарникам (Tesseract + Poppler) из переменных окружения ──
+CONDA_BIN = os.getenv("CONDA_BIN", "").strip()
+if CONDA_BIN and os.path.isdir(CONDA_BIN):
     os.environ["PATH"] = CONDA_BIN + os.pathsep + os.environ.get("PATH", "")
-    os.environ["TESSDATA_PREFIX"] = "/Users/irina/miniconda3/share/tessdata"
+TESSDATA_PREFIX = os.getenv("TESSDATA_PREFIX", "").strip()
+if TESSDATA_PREFIX and os.path.isdir(TESSDATA_PREFIX):
+    os.environ["TESSDATA_PREFIX"] = TESSDATA_PREFIX
 
 DOC_AGENT_AVAILABLE = False
 VISION_AGENT_AVAILABLE = False

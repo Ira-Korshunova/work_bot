@@ -316,7 +316,7 @@
     },
     "bm25": true,
     "rerank_on": true,
-    "docs_dir": "/Users/irina/Desktop/Домашка/ДЗ_мод5_4/work_bot/rag_data/docs"
+    "docs_dir": "rag_data/docs"
   },
   "config": {
     "top_k": 5,
